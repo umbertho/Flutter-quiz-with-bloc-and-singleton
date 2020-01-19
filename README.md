@@ -3,7 +3,7 @@
  
  
  
- To change questions and answers, add or change values on file initial_test_values.dart:
+ To change questions and answers, add or change values in file initial_test_values.dart:
  
  
 ```
